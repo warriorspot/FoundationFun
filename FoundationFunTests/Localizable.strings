@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  FoundationFun
+
+  Created by Brennan Cleveland on 6/1/14.
+  Copyright (c) 2014 Brennan Cleveland. All rights reserved.
+*/
+
+"ERROR_NO_INPUT" = "Recording hardware is not available.";
+"ERROR_ACCESS_DENIED" = "Recording permission has been denied.";
+"ERROR_PREPARE_FAILED" = "Prepare to record failed.";
+"ERROR_RECORD_FAILED" = "Recording failed.";
+
+"SAMPLES_DELETE_FAILED" = "I couldn't delete that file...";
+
+"STATUS_WAITING" = "Press 'Record' To Add A Sound";
+"STATUS_RECORDING_STARTING" = "Initializing...";
+"STATUS_RECORDING_ACTIVE" = "Recording...";
+"STATUS_RECORDING_ENDED" = "Recording Complete";
+"STATUS_RECORDING_ERROR" = "Uh Oh";
